@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cursivayo-authO/static/css/main.1319e149.css",
+    "main.js": "/cursivayo-authO/static/js/main.d9796ca5.js",
+    "static/css/72.31c4de37.chunk.css": "/cursivayo-authO/static/css/72.31c4de37.chunk.css",
+    "static/js/72.18424050.chunk.js": "/cursivayo-authO/static/js/72.18424050.chunk.js",
+    "static/js/787.5253577a.chunk.js": "/cursivayo-authO/static/js/787.5253577a.chunk.js",
+    "static/js/161.94b3a50d.chunk.js": "/cursivayo-authO/static/js/161.94b3a50d.chunk.js",
+    "index.html": "/cursivayo-authO/index.html",
+    "main.1319e149.css.map": "/cursivayo-authO/static/css/main.1319e149.css.map",
+    "main.d9796ca5.js.map": "/cursivayo-authO/static/js/main.d9796ca5.js.map",
+    "72.31c4de37.chunk.css.map": "/cursivayo-authO/static/css/72.31c4de37.chunk.css.map",
+    "72.18424050.chunk.js.map": "/cursivayo-authO/static/js/72.18424050.chunk.js.map",
+    "787.5253577a.chunk.js.map": "/cursivayo-authO/static/js/787.5253577a.chunk.js.map",
+    "161.94b3a50d.chunk.js.map": "/cursivayo-authO/static/js/161.94b3a50d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1319e149.css",
+    "static/js/main.d9796ca5.js"
+  ]
+}
